@@ -43,4 +43,4 @@ The official completion certificate will be added after internship completion.
 🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
 🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
 📧 **Email:**     [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
-📱  **Phone:**     [+92 303 6098700](tel:+923036098700)
+📞 **Phone:**     [+923036098700](tel:+923036098700)
