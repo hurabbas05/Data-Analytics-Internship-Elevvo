@@ -1,4 +1,4 @@
-# Elevvo Data Analytics Internship 
+# Data Analytics Internship - Elevvo
 
 **Platform:** Elevvo    
 **Role:** Data Analyst Intern  
